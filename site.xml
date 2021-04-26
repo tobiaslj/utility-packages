@@ -3,4 +3,5 @@
                 This site contains the packages for Novell Identity Manager
         </description>        
 <feature id="NIQIGMC.feature" url="features/NIQIGMC.feature_0.0.1.20210426134813.jar" version="0.0.1.20210426134813"/>
+	<feature id="NIQIGMC.feature" url="features/NIQIGMC.feature_0.0.2.20210426152558.jar" version="0.0.2.20210426152558"/>
 </site>
